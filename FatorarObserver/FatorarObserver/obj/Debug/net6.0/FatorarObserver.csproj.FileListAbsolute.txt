@@ -1,0 +1,14 @@
+C:\Users\manha.cetafest\Documents\GitHub\Atv_Observer\FatorarObserver\FatorarObserver\bin\Debug\net6.0\FatorarObserver.exe
+C:\Users\manha.cetafest\Documents\GitHub\Atv_Observer\FatorarObserver\FatorarObserver\bin\Debug\net6.0\FatorarObserver.deps.json
+C:\Users\manha.cetafest\Documents\GitHub\Atv_Observer\FatorarObserver\FatorarObserver\bin\Debug\net6.0\FatorarObserver.runtimeconfig.json
+C:\Users\manha.cetafest\Documents\GitHub\Atv_Observer\FatorarObserver\FatorarObserver\bin\Debug\net6.0\FatorarObserver.dll
+C:\Users\manha.cetafest\Documents\GitHub\Atv_Observer\FatorarObserver\FatorarObserver\bin\Debug\net6.0\FatorarObserver.pdb
+C:\Users\manha.cetafest\Documents\GitHub\Atv_Observer\FatorarObserver\FatorarObserver\obj\Debug\net6.0\FatorarObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manha.cetafest\Documents\GitHub\Atv_Observer\FatorarObserver\FatorarObserver\obj\Debug\net6.0\FatorarObserver.AssemblyInfoInputs.cache
+C:\Users\manha.cetafest\Documents\GitHub\Atv_Observer\FatorarObserver\FatorarObserver\obj\Debug\net6.0\FatorarObserver.AssemblyInfo.cs
+C:\Users\manha.cetafest\Documents\GitHub\Atv_Observer\FatorarObserver\FatorarObserver\obj\Debug\net6.0\FatorarObserver.csproj.CoreCompileInputs.cache
+C:\Users\manha.cetafest\Documents\GitHub\Atv_Observer\FatorarObserver\FatorarObserver\obj\Debug\net6.0\FatorarObserver.dll
+C:\Users\manha.cetafest\Documents\GitHub\Atv_Observer\FatorarObserver\FatorarObserver\obj\Debug\net6.0\refint\FatorarObserver.dll
+C:\Users\manha.cetafest\Documents\GitHub\Atv_Observer\FatorarObserver\FatorarObserver\obj\Debug\net6.0\FatorarObserver.pdb
+C:\Users\manha.cetafest\Documents\GitHub\Atv_Observer\FatorarObserver\FatorarObserver\obj\Debug\net6.0\FatorarObserver.genruntimeconfig.cache
+C:\Users\manha.cetafest\Documents\GitHub\Atv_Observer\FatorarObserver\FatorarObserver\obj\Debug\net6.0\ref\FatorarObserver.dll
